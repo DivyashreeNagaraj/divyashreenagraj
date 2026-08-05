@@ -2,9 +2,9 @@
 
 🎓 Master's Student in Artificial Intelligence at IU International University of Applied Sciences, Berlin
 
-💻 Former QA Automation Engineer with 2+ years of experience in Selenium, Java, RestAssured, API Testing, and BDD Automation
+💻 Former Quality Assurance Engineer with 2+ years of experience in Automation Testing, API Testing, Selenium, Java, RestAssured, and BDD Automation.
 
-🤖 Passionate about Artificial Intelligence, Machine Learning, Computer Vision, Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and AI-powered applications
+🤖 Passionate about Artificial Intelligence, Machine Learning, Computer Vision, Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and building intelligent AI solutions.
 
 📍 Berlin, Germany
 
@@ -12,44 +12,89 @@
 
 ## 🚀 Featured Projects
 
+### 👁️ Vision Pipeline
+An end-to-end computer vision pipeline built using **YOLO, OpenCV, FastAPI, and Docker** for scalable image processing and AI inference.
+
+**Tech Stack:** Python • YOLO • OpenCV • FastAPI • Docker
+
+---
+
 ### 🤖 DocMind AI
-AI-powered PDF Research Assistant built using RAG, LangChain, ChromaDB, Sentence Transformers, Ollama, and Streamlit.
+An AI-powered PDF research assistant that uses **Retrieval-Augmented Generation (RAG)** to answer questions from uploaded documents.
 
-### 🌦️ Smart Farmer Assistant
-AI chatbot that provides weather forecasts and farming assistance using Rasa NLP and Python.
+**Tech Stack:** Python • LangChain • ChromaDB • Ollama • Sentence Transformers • FastAPI • Streamlit
 
-### 👁️ AI Portfolio
-Modern portfolio built with Next.js, TypeScript, Tailwind CSS, and Framer Motion showcasing AI and Software Engineering projects.
+---
+
+### 🌾 Smart Farmer Assistant
+An NLP-powered chatbot providing weather forecasts and agricultural recommendations using **Rasa** and external weather APIs.
+
+**Tech Stack:** Python • Rasa • NLP • REST APIs
+
+---
+
+### 🌐 AI Portfolio
+A modern developer portfolio showcasing AI projects, skills, and experience with a responsive UI.
+
+**Tech Stack:** Next.js • TypeScript • Tailwind CSS • Framer Motion
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages**
-- Python • Java • SQL • TypeScript
+### Languages
+- Python
+- Java
+- SQL
+- TypeScript
 
-**AI / ML**
-- Machine Learning • Computer Vision • OpenCV • PyTorch • TensorFlow • Scikit-learn
+### AI & Machine Learning
+- Machine Learning
+- Deep Learning
+- Computer Vision
+- OpenCV
+- PyTorch
+- TensorFlow
+- Scikit-learn
 
-**LLMs**
-- LangChain • ChromaDB • Ollama • RAG • Sentence Transformers
+### Large Language Models
+- LangChain
+- Retrieval-Augmented Generation (RAG)
+- ChromaDB
+- Ollama
+- Sentence Transformers
 
-**Web**
-- Next.js • React • Tailwind CSS • Streamlit
+### Web Development
+- Next.js
+- React
+- Tailwind CSS
+- FastAPI
+- Streamlit
 
-**QA & DevOps**
-- Selenium • RestAssured • Cucumber • Git • GitHub • Docker
+### QA & DevOps
+- Selenium
+- RestAssured
+- Cucumber (BDD)
+- Git
+- GitHub
+- Docker
 
 ---
 
 ## 📫 Connect with Me
 
-📧 Email: **divyashreenagarajm@gmail.com**
+📧 **Email**  
+divyashreenagarajm@gmail.com
 
-💼 LinkedIn: **https://www.linkedin.com/in/divyashree-nagaraj-9903351a8/**
+💼 **LinkedIn**  
+[https://www.linkedin.com/in/YOUR-NEW-LINKEDIN-URL](https://www.linkedin.com/in/divyashree-nagaraj-m/)
 
-🌐 Portfolio: *(Add your Vercel link here after deployment)*
+🌐 **Portfolio**  
+https://divyashree-nagaraj-portfolio.vercel.app
+
+💻 **GitHub**  
+https://github.com/DivyashreeNagaraj
 
 ---
 
-⭐ Thanks for visiting my GitHub profile!
+⭐ Thanks for visiting my GitHub profile! Feel free to explore my repositories and connect with me.
