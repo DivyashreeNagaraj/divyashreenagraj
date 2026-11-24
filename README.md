@@ -1,100 +1,77 @@
-# 👋 Hi, I'm Divyashree Nagaraj
+# Hi, I'm Divyashree Nagaraj 👋
 
-🎓 Master's Student in Artificial Intelligence at IU International University of Applied Sciences, Berlin
+🎓 Master's Student in Artificial Intelligence at IU International University of Applied Sciences.
 
-💻 Former Quality Assurance Engineer with 2+ years of experience in Automation Testing, API Testing, Selenium, Java, RestAssured, and BDD Automation.
+💻 Software engineering professional with 2+ years of experience in software quality engineering and test automation.
 
-🤖 Passionate about Artificial Intelligence, Machine Learning, Computer Vision, Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and building intelligent AI solutions.
+🤖 Interested in AI/ML Engineering, Generative AI, Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and Computer Vision.
 
-📍 Berlin, Germany
+📍 Germany
 
 ---
 
 ## 🚀 Featured Projects
 
-### 👁️ Vision Pipeline
-An end-to-end computer vision pipeline built using **YOLO, OpenCV, FastAPI, and Docker** for scalable image processing and AI inference.
+### 📚 DocMind AI – RAG-Based Document Assistant
+An AI-powered document assistant that uses Retrieval-Augmented Generation to answer questions based on uploaded documents.
 
-**Tech Stack:** Python • YOLO • OpenCV • FastAPI • Docker
+**Tech Stack:** Python • FastAPI • LangChain • ChromaDB • Ollama • Sentence Transformers
 
----
+### 👁️ Vision Pipeline – Object Detection System
+An end-to-end computer vision project using YOLOv8 and OpenCV for object detection, image processing, and visualization.
 
-### 🤖 DocMind AI
-An AI-powered PDF research assistant that uses **Retrieval-Augmented Generation (RAG)** to answer questions from uploaded documents.
+**Tech Stack:** Python • YOLOv8 • PyTorch • OpenCV • Streamlit
 
-**Tech Stack:** Python • LangChain • ChromaDB • Ollama • Sentence Transformers • FastAPI • Streamlit
+### 🌐 AI Portfolio
+A personal portfolio showcasing my AI projects, technical skills, professional experience, and development work.
 
----
+**Tech Stack:** Next.js • React • TypeScript • Tailwind CSS • Framer Motion
 
 ### 🌾 Smart Farmer Assistant
-An NLP-powered chatbot providing weather forecasts and agricultural recommendations using **Rasa** and external weather APIs.
+An NLP-based assistant providing weather information and farming-related recommendations through conversational workflows.
 
 **Tech Stack:** Python • Rasa • NLP • REST APIs
 
 ---
 
-### 🌐 AI Portfolio
-A modern developer portfolio showcasing AI projects, skills, and experience with a responsive UI.
+## 🛠️ Technical Skills
 
-**Tech Stack:** Next.js • TypeScript • Tailwind CSS • Framer Motion
+**Programming:** Python • Java • SQL • JavaScript • TypeScript
 
----
+**AI & Machine Learning:** Machine Learning • Deep Learning • Computer Vision • NLP • PyTorch • Scikit-learn • OpenCV
 
-## 🛠️ Tech Stack
+**Generative AI:** LLMs • Retrieval-Augmented Generation (RAG) • LangChain • ChromaDB • Sentence Transformers • Ollama
 
-### Languages
-- Python
-- Java
-- SQL
-- TypeScript
+**Backend & Development:** FastAPI • Flask • React • Next.js • REST APIs
 
-### AI & Machine Learning
-- Machine Learning
-- Deep Learning
-- Computer Vision
-- OpenCV
-- PyTorch
-- TensorFlow
-- Scikit-learn
+**Testing & Automation:** Selenium • RestAssured • Serenity BDD • Cucumber • Postman
 
-### Large Language Models
-- LangChain
-- Retrieval-Augmented Generation (RAG)
-- ChromaDB
-- Ollama
-- Sentence Transformers
-
-### Web Development
-- Next.js
-- React
-- Tailwind CSS
-- FastAPI
-- Streamlit
-
-### QA & DevOps
-- Selenium
-- RestAssured
-- Cucumber (BDD)
-- Git
-- GitHub
-- Docker
+**Tools:** Git • GitHub • Docker • Linux • Jira
 
 ---
 
-## 📫 Connect with Me
+## 🔬 Research Interests
 
-📧 **Email**  
-divyashreenagarajm@gmail.com
+Context Compression in Retrieval-Augmented Generation (RAG) Systems.
 
-💼 **LinkedIn**  
-[https://www.linkedin.com/in/YOUR-NEW-LINKEDIN-URL](https://www.linkedin.com/in/divyashree-nagaraj-m/)
-
-🌐 **Portfolio**  
-https://divyashree-nagaraj-portfolio.vercel.app
-
-💻 **GitHub**  
-https://github.com/DivyashreeNagaraj
+Exploring how retrieved-context compression affects the quality of LLM-generated answers across different question types and language model sizes.
 
 ---
 
-⭐ Thanks for visiting my GitHub profile! Feel free to explore my repositories and connect with me.
+## 💼 Professional Background
+
+- Associate Quality Assurance Engineer – Clarivate Analytics
+- Working Student – Product Testing & Software Automation – NODI Kids
+
+---
+
+## 📫 Connect With Me
+
+- **LinkedIn:** [Divyashree Nagaraj](https://www.linkedin.com/in/divyashree-nagaraj-m/)
+- **Portfolio:** [Visit my portfolio](https://divyashree-nagaraj-portfolio.vercel.app)
+- **Email:** divyashreenagarajm@gmail.com
+- **GitHub:** [DivyashreeNagaraj](https://github.com/DivyashreeNagaraj)
+
+---
+
+⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
